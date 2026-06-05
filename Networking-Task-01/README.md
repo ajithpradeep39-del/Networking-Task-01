@@ -12,7 +12,7 @@ The objective of this task is to understand basic networking concepts and identi
 |--------|--------|
 | Hostname | Asta |
 | IPv4 Address | 192.168.150.100 |
-| MAC Address | 30-D1-6B-AE-FD-2F |
+| MAC Address | 90-W4-VC-SC-DG-4F |
 | Default Gateway | 192.168.150.1 |
 | DNS Server | 192.168.150.1 |
 
