@@ -1,0 +1,20 @@
+Hostname: Asta
+
+IPv4 Address: 192.168.150.100
+
+MAC Address: 30-D1-6B-AE-FD-2F
+
+Default Gateway: 192.168.150.1
+
+DNS Server: 192.168.150.1
+
+Ping Result:
+Packets Sent = 4
+Packets Received = 4
+Packets Lost = 0
+
+Traceroute Result:
+Hop 1 -> 192.168.150.1
+Hop 2 -> 142.250.207.78
+
+Total Hops = 2
