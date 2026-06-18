@@ -1,0 +1,5 @@
+Online_Account_Security_Review.xlsx
+Account	Strong Password	MFA Enabled	Recovery Email	Remarks
+Google	Yes	Yes	Yes	Secure account
+GitHub	Yes	Yes	Yes	Secure account
+LinkedIn	Yes	No	Yes	MFA should be enabled
