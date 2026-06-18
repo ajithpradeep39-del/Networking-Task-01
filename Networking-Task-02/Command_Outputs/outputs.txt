@@ -1,0 +1,51 @@
+Networking Task 02 Command Outputs
+
+========================================
+Command 1: ipconfig /all
+========================
+
+Hostname: Asta
+
+IPv4 Address: 192.168.150.100
+
+Default Gateway: 192.168.150.1
+
+DNS Server: 192.168.150.1
+
+========================================
+Command 2: nslookup google.com
+==============================
+
+Server: Unknown
+
+Address: 192.168.150.1
+
+Non-authoritative answer:
+
+Name: google.com
+
+IPv6 Address:
+2404:6800:4007:82f::200e
+
+IPv4 Address:
+142.250.207.78
+
+========================================
+Command 3: ping google.com
+==========================
+
+Packets Sent = 4
+
+Packets Received = 4
+
+Packets Lost = 0
+
+Minimum Time = 61 ms
+
+Maximum Time = 74 ms
+
+Average Time = 68 ms
+
+Result:
+Ping Successful
+0% Packet Loss
