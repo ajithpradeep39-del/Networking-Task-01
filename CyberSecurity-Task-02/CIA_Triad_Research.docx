@@ -1,0 +1,44 @@
+1. Confidentiality
+Definition
+
+Confidentiality is the process of protecting sensitive information from unauthorized access. It ensures that only authorized users can view or access data.
+
+Why it is Important
+Protects personal and confidential information.
+Prevents data theft and privacy breaches.
+Maintains customer and organizational trust.
+Real-World Example
+
+Online banking systems use usernames, passwords, and Multi-Factor Authentication (MFA) to ensure only authorized users can access their accounts.
+
+2. Integrity
+Definition
+
+Integrity ensures that data remains accurate, complete, and unchanged unless modified by an authorized user.
+
+Why it is Important
+Prevents unauthorized changes.
+Ensures data accuracy.
+Maintains trust in information.
+Real-World Example
+
+Universities protect student marks so that only authorized staff can modify examination results.
+
+3. Availability
+Definition
+
+Availability ensures that systems, applications, and data are accessible whenever authorized users need them.
+
+Why it is Important
+Prevents downtime.
+Supports business continuity.
+Allows users to access services without interruption.
+Real-World Example
+
+Cloud storage services maintain backup servers so users can access files even if one server fails.
+
+Comparison Table
+Principle	Definition	Importance	Example
+Confidentiality	Protects data from unauthorized access	Prevents data leaks	Online Banking
+Integrity	Keeps data accurate	Prevents unauthorized modifications	Student Results
+Availability	Ensures systems remain accessible	Prevents downtime	Cloud Storage

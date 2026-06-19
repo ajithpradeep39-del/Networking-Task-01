@@ -1,0 +1,36 @@
+Case Study: WannaCry Ransomware Attack
+Introduction
+
+WannaCry was a ransomware attack that spread worldwide in May 2017. It encrypted files on infected computers and demanded payment in Bitcoin to restore access.
+
+What Happened?
+
+The malware exploited a vulnerability in Microsoft Windows systems. It rapidly spread across networks, infecting over 200,000 computers in more than 150 countries.
+
+Which CIA Principle Was Affected?
+Confidentiality
+
+Sensitive information became inaccessible.
+
+Integrity
+
+Files were encrypted, altering their original state.
+
+Availability
+
+Users could not access their systems or files.
+
+Impact
+Hospitals canceled surgeries.
+Businesses experienced downtime.
+Financial losses reached billions of dollars.
+Critical services were disrupted.
+Prevention
+Install security updates.
+Regularly back up important data.
+Use antivirus software.
+Avoid suspicious email attachments.
+Enable firewalls.
+Conclusion
+
+The WannaCry attack highlighted the importance of regular software updates, backups, and strong cybersecurity practices.

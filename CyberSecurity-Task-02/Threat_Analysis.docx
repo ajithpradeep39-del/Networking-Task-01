@@ -1,0 +1,64 @@
+Threat Identification
+1. Insider Threat
+Description
+
+A security risk caused by employees or authorized users misusing their access.
+
+Possible Impact
+Data theft
+Information leakage
+Financial loss
+Prevention
+Access control
+Employee monitoring
+Security awareness training
+2. Malware
+Description
+
+Malicious software designed to damage or disrupt systems.
+
+Possible Impact
+Data loss
+System crashes
+Ransomware attacks
+Prevention
+Antivirus software
+Software updates
+Safe browsing
+3. Phishing
+Description
+
+Fraudulent emails or websites that trick users into revealing sensitive information.
+
+Possible Impact
+Account compromise
+Financial fraud
+Identity theft
+Prevention
+Verify email senders
+Avoid suspicious links
+User awareness training
+4. Weak Passwords
+Description
+
+Simple or reused passwords that are easy for attackers to guess.
+
+Possible Impact
+Unauthorized access
+Data theft
+Prevention
+Strong passwords
+Password managers
+Multi-Factor Authentication
+5. Unpatched Systems
+Description
+
+Systems without the latest security updates.
+
+Possible Impact
+Malware infections
+Exploitation of vulnerabilities
+Prevention
+Regular updates
+Patch management
+Vulnerability scanning
